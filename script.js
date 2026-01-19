@@ -1,1 +1,1 @@
-document.getElementById("content").innerText = "Welcome!";
+document.getElementById("content").innerText = "Welcome to Github collaboration practice!";
